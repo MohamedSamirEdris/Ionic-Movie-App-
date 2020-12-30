@@ -9,4 +9,10 @@ export class HomePage {
 
   constructor() {}
 
+  options = {
+    centeredSlides: true,
+    loop: true,
+    spaceBetween: -100,
+  };
+
 }
